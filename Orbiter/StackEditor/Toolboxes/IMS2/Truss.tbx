@@ -1,0 +1,17 @@
+IMS2\Truss\BCPLR_UniCoupler.cfg
+IMS2\Truss\BT1001_Truss.cfg
+IMS2\Truss\BT100_Truss.cfg
+IMS2\Truss\BT1011_Truss.cfg
+IMS2\Truss\BT101_Truss.cfg
+IMS2\Truss\BT102_Node.cfg
+IMS2\Truss\BT201_Truss_to_Module_Adapter.cfg
+IMS2\Truss\BT301_LargeTrussToSmallTruss.cfg
+IMS2\Truss\BT302_LargeTrussToSmallTruss_Short.cfg
+IMS2\Truss\Truss_15m.cfg
+IMS2\Truss\Truss_1to3.cfg
+IMS2\Truss\Truss_21m.cfg
+IMS2\Truss\Truss_fork.cfg
+IMS2\Truss\Truss_light_15m.cfg
+IMS2\Truss\Truss_light_1to3.cfg
+IMS2\Truss\Truss_light_21m.cfg
+IMS2\Truss\Truss_light_fork.cfg
