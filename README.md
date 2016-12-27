@@ -1,6 +1,6 @@
 # IMS2 Distribution package
 
-IMS2 is an orbitter add-on that allows players to build their own spacecraft in the simulation.
+IMS2 is an add-on for Orbiter 2016 that allows players to build their own spacecraft in the simulation.
 This is the distribution package, containing all files neccessary to run the add-on in Orbiter, save for external dependencies (see installation).
 
 ## Current version:
@@ -28,7 +28,11 @@ IMS2 comes with a toolbox set for the [Orbiter StackEditor](http://www.orbithang
 to put vessels together than Scenario Editor. It must be noted however that IMS2 does not yet have
 the same level of support by stack editor as the original IMS had. Additionally, StackEditor seems
 to have a few minor hickups in Orbiter 2016, like vessels spawning at the center of the sun, but it's
-still more convenient than Scenario Editor.
+still more convenient than Scenario Editor.  
+After installing, you'll have to open StackEditor/StackEditor.cfg and change the line:  
+`tbxset = default` 
+to 
+`tbxset = IMS2`
 
 ## Source code
 

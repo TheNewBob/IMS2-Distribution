@@ -1,7 +1,11 @@
 ims2/tank/btank101_lh2_large.cfg
 ims2/tank/btank102_ch4_large.cfg
-ims2/tank/btank103_lox_large
+ims2/tank/btank103_lox_large.cfg
 ims2/tank/btank201_n2h4_small.cfg
 ims2/tank/btank202_ch4_small.cfg
 ims2/tank/btank203_lox_small.cfg
-ims2/tank/fueltank_lox_rp1_2.56-1.cfg
+ims2/tank/tank_CH4_XL.cfg
+ims2/tank/tank_LH2_XL.cfg
+ims2/tank/tank_LOX_XL.cfg
+ims2/tank/tank_RP1_XL.cfg
+ims2/tank/tank_lox_rp1_ratio-2.56-1_XL.cfg
