@@ -25,11 +25,16 @@ IMS2 requires the following prerequisites to run properly:
 
 ## Recommended add-ons
 IMS2 comes with a toolbox set for the [Orbiter StackEditor](http://www.orbithangar.com/search_quick.php?text=stackeditor&submit.x=0&submit.y=0), which is a much more convenient tool
-to put vessels together than Scenario Editor. It must be noted however that IMS2 does not yet have
-the same level of support by stack editor as the original IMS had. Additionally, StackEditor seems
-to have a few minor hickups in Orbiter 2016, like vessels spawning at the center of the sun, but it's
-still more convenient than Scenario Editor.  
-After installing, you'll have to open StackEditor/StackEditor.cfg and change the line:  
+to put vessels together than Scenario Editor. It does come with a few caveats for Orbiter 2016, however:  
+* StackEditor has no extended support for IMS2 modules, i.e. it will not display any module properties.
+* StackEditor hangs when exporting the vessel to Orbiter. The vessel is still exported, but StackEditor will be unresponsive afterwards.
+* IMS2 is likely to crash when using the "integrate all" feature immediately after the vessel is spawned by StackEditor.
+the best course of action is to spawn the vessel, quit orbiter, and then restart the current state.
+* StackEditor will spawn vessels at the center of the sun.
+
+These issues are not IMS2 related, and will not immediately be fixed in StackEditor. An adaptation of StackEditor specifically for IMS2 is planned for the Beta-stage, all issues will be addressed at that point.
+
+After installing StackEditor, you'll have to open StackEditor/StackEditor.cfg and change the line:  
 `tbxset = default` 
 to 
 `tbxset = IMS2`
