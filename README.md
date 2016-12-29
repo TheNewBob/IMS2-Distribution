@@ -102,6 +102,11 @@ Orbiter/Config/Vessels/IMS2/Tank/BTank201_N2H4_Small.cfg
 Orbiter/Config/Vessels/IMS2/Tank/BTank202_CH4_Small.cfg
 Orbiter/Config/Vessels/IMS2/Tank/BTank203_LOX_Small.cfg
 Orbiter/Config/Vessels/IMS2/Tank/BTank204_LOX_LCH4_Small.cfg
+Orbiter/Config/Vessels/IMS2/Tank/Tank_CH4_XL.cfg
+Orbiter/Config/Vessels/IMS2/Tank/Tank_LH2_XL.cfg
+Orbiter/Config/Vessels/IMS2/Tank/Tank_LOX_RP1_ratio-2.56-1_XL.cfg
+Orbiter/Config/Vessels/IMS2/Tank/Tank_LOX_XL.cfg
+Orbiter/Config/Vessels/IMS2/Tank/Tank_RP1_XL.cfg
 Orbiter/Config/Vessels/IMS2/Truss/BCPLR_UniCoupler.cfg
 Orbiter/Config/Vessels/IMS2/Truss/BT1001_Truss.cfg
 Orbiter/Config/Vessels/IMS2/Truss/BT100_Truss.cfg
@@ -130,11 +135,14 @@ Orbiter/Meshes/IMS/BR020.msh
 Orbiter/Meshes/IMS/BR200.msh
 Orbiter/Meshes/IMS/BRCS.msh
 Orbiter/Meshes/IMS/BRCS2.msh
+Orbiter/Meshes/IMS/BT1001.msh
+Orbiter/Meshes/IMS/BT1011.msh
 Orbiter/Meshes/IMS/BTDL.msh
 Orbiter/Meshes/IMS/CBM_Docking_Port.msh
 Orbiter/Meshes/IMS/DADG.msh
 Orbiter/Meshes/IMS/FuelTank_New.msh
 Orbiter/Meshes/IMS/HPE.msh
+Orbiter/Meshes/IMS/J-2XIM.msh
 Orbiter/Meshes/IMS/NERVA.msh
 Orbiter/Meshes/IMS/SSBBLargeTrussToSmallTruss.msh
 Orbiter/Meshes/IMS/SSBBLargeTrussToSmallTrussShort.msh
@@ -152,6 +160,14 @@ Orbiter/Meshes/IMS/VASIMR_4MW.msh
 Orbiter/Meshes/IMS/cover.msh
 Orbiter/Meshes/IMS/cover_small.msh
 Orbiter/Modules/IMS2/IMS2.dll
+Orbiter/Scenarios/IMS2/Plato Base.scn
+Orbiter/Scenarios/IMS2/moonhopper at brighton beach.scn
+Orbiter/StackEditor/Toolboxes/IMS2/Comms.tbx
+Orbiter/StackEditor/Toolboxes/IMS2/Habitat.tbx
+Orbiter/StackEditor/Toolboxes/IMS2/Landing_Gear.tbx
+Orbiter/StackEditor/Toolboxes/IMS2/Propulsion.tbx
+Orbiter/StackEditor/Toolboxes/IMS2/Tanks.tbx
+Orbiter/StackEditor/Toolboxes/IMS2/Truss.tbx
 Orbiter/Textures/IMS/BCCH.dds
 Orbiter/Textures/IMS/BCFGA.dds
 Orbiter/Textures/IMS/BCLPR1.dds
@@ -175,4 +191,5 @@ Orbiter/Textures/IMS/Truss.dds
 Orbiter/Textures/IMS/VASIMR.dds
 Orbiter/Textures/IMS/blanketlight.dds
 Orbiter/Textures/IMS/texture.dds
+README.md
 ```
