@@ -8,7 +8,8 @@ Alpha-1
 
 ## Installation
 [Download and install SSBB 4.1](http://www.orbithangar.com/searchid.php?ID=3177)  
-[Download the IMS2 distribution package](https://github.com/TheNewBob/IMS2-Distribution/archive/master.zip)  
+[Download the IMS2 distribution package](https://github.com/TheNewBob/IMS2-Distribution/archive/master.zip) 
+[...Or Download the latest unstable version](https://github.com/TheNewBob/IMS2-Distribution/archive/develop.zip) 
 Open the zip file and unpack the contents of IMS2-Distribution-master/Orbiter into your orbiter 2016 directory.
 
 ## Manual
