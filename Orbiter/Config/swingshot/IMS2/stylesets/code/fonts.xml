@@ -1,0 +1,37 @@
+<font>
+    <id>default</id>
+    <face>monaco</face>
+    <size>1</size>
+    <color>255,255,255</color>
+    <hilight-color>255,255,255</hilight-color>
+    <hilight-background>38,79,120</hilight-background>
+    <key-color>255,20,147</key-color>
+</font>
+
+<font>
+    <id>statusbar</id>
+    <face>monaco</face>
+    <size>1</size>
+    <color>255,255,255</color>
+    <hilight-color>255,255,255</hilight-color>
+    <hilight-background>63,63,70</hilight-background>
+    <key-color>255,20,147</key-color>
+</font>
+
+<font>
+    <id>error</id>
+    <face>monaco</face>
+    <size>1</size>
+    <color>255,255,255</color>
+    <hilight-color>255,0,0</hilight-color>
+    <key-color>255,20,147</key-color>
+</font>
+
+<font>
+    <id>heading</id>
+    <face>monaco</face>
+    <size>1.25</size>
+    <color>255,255,255</color>
+    <key-color>255,20,147</key-color>
+</font>
+

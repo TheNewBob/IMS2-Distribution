@@ -1,0 +1,85 @@
+<style>
+    <id>default</id>
+    <line-strength>0.06</line-strength>
+    <line-color>0,255,255</line-color>
+    <bg-color>8, 8, 24</bg-color>
+    <hilight-color>0, 255, 255</hilight-color>
+    <key-color>255,20,147</key-color>
+    <corner-radius>0.75</corner-radius>
+    <rounded-corners>1,3</rounded-corners>
+    <font>default</font>
+</style>
+
+<style>
+    <id>scrollbar</id>
+    <inherit>default</inherit>
+</style>
+
+<style>
+    <id>page</id>
+    <inherit>default</inherit>
+    <line-strength>0.2</line-strength>
+    <corner-radius>1.25</corner-radius>
+    <childstyle>scrollbar</childstyle>
+</style>
+
+<style>
+    <id>button</id>
+    <inherit>default</inherit>
+</style>
+
+<style>
+    <id>checkbox</id>
+    <inherit>button</inherit>
+    <corner-radius>0.5</corner-radius>
+</style>
+
+<style>
+    <id>heading</id>
+    <inherit>default</inherit>
+    <font>heading</font>
+</style>
+
+<style>
+    <id>error</id>
+    <inherit>default</inherit>
+    <line-color>255,0,0</line-color>
+    <font>error</font>
+</style>
+
+<style>
+    <id>statusbar</id>
+    <inherit>default</inherit>
+    <rounded-corners>1,2,3,4</rounded-corners>
+    <line-strength>0.125</line-strength>
+</style>
+
+<style>
+    <id>listbox</id>
+    <inherit>default</inherit>
+    <inset>
+        <left>0.25</left>
+        <top>0.25</top>
+        <right>0.25</right>
+        <bottom>0.25</bottom>
+    </inset>
+    <childstyle>scrollbar</childstyle>
+</style>
+
+<!-- custom styles -->
+<style>
+    <id>bold_button</id>
+    <inherit>button</inherit>
+    <line-strength>0.125</line-strength>
+</style>
+
+<style>
+    <id>labelvalue_with_error</id>
+    <inherit>default</inherit>
+    <childstyle>error</childstyle>
+</style>
+
+<style>
+    <id>module_control</id>
+    <inherit>page</inherit>
+</style>

@@ -1,0 +1,45 @@
+<layout>
+    <margin>
+        <top>0.5</top>
+        <left>0.02</left>
+        <right>0.02</right>
+    </margin>
+
+    <row>
+        <height>1.5</height>
+        <field>
+            <width>0.2</width>
+        </field>
+        <field>
+            <width>0.6</width>
+            <element>propellant_label</element>
+        </field>
+        <field>
+            <width>0.2</width>
+            <element>cheat_btn</element>
+        </field>
+    </row>
+    <row>
+        <height>1.5</height>
+        <margin><top>0.4</top></margin>
+        <field>
+            <width>1</width>
+            <element>propellant_status</element>
+        </field>
+    </row>
+    <row>
+        <height>1.5</height>
+        <margin><top>0.4</top></margin>
+        <field>
+            <width>0.3</width>
+            <element>valve_chkbx</element>
+        </field>
+        <field>
+            <width>0.2</width>
+        </field>
+        <field>
+            <width>0.5</width>
+            <element>change_proptype_btn</element>
+        </field>
+    </row>
+</layout>

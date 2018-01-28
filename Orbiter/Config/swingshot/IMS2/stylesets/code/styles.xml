@@ -1,0 +1,88 @@
+<style>
+    <id>default</id>
+    <line-strength>0.06</line-strength>
+    <line-color>64,64,64</line-color>
+    <bg-color>30,30,30</bg-color>
+    <hilight-color>63,63,70</hilight-color>
+    <key-color>255,20,147</key-color>
+    <font>default</font>
+</style>
+
+<style>
+    <id>scrollbar</id>
+    <inherit>default</inherit>
+</style>
+
+<style>
+    <id>page</id>
+    <inherit>default</inherit>
+    <childstyle>scrollbar</childstyle>
+</style>
+
+<style>
+    <id>button</id>
+    <inherit>default</inherit>
+    <line-strength>0</line-strength>
+    <line-color>45,45,45</line-color>
+    <bg-color>45,45,45</bg-color>
+</style>
+
+<style>
+    <id>checkbox</id>
+    <inherit>default</inherit>
+</style>
+
+<style>
+    <id>heading</id>
+    <inherit>default</inherit>
+    <font>heading</font>
+</style>
+
+<style>
+    <id>error</id>
+    <inherit>default</inherit>
+    <line-color>255,0,0</line-color>
+</style>
+
+<style>
+    <id>statusbar</id>
+    <inherit>default</inherit>
+   <!-- <line-strength>0.125</line-strength>-->
+    <font>statusbar</font>
+</style>
+
+<style>
+    <id>listbox</id>
+    <inherit>default</inherit>
+    <inset>
+        <left>0.25</left>
+        <top>0.25</top>
+        <right>0.25</right>
+        <bottom>0.25</bottom>
+    </inset>
+    <childstyle>scrollbar</childstyle>
+</style>
+
+<!-- custom styles -->
+<style>
+    <id>bold_button</id>
+    <inherit>button</inherit>
+    <line-strength>0.06</line-strength>
+</style>
+
+<style>
+    <id>labelvalue_with_error</id>
+    <inherit>default</inherit>
+    <childstyle>error</childstyle>
+</style>
+
+<style>
+    <id>labelvalue_with_error</id>
+    <inherit>default</inherit>
+    <childstyle>error</childstyle>
+</style>
+
+<style>
+    <id>module_control</id>
+    <inherit>page</inherit>
+</style>

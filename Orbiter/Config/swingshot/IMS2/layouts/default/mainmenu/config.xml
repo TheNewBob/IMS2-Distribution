@@ -1,0 +1,35 @@
+<layout>
+    <margin>
+        <top>1</top>
+        <left>0.06</left>
+        <right>0.06</right>
+    </margin>
+
+    <row>
+        <height>1.5</height>
+        <field>
+            <width>0.5</width>
+            <element>rcs_assist_chkbx</element>
+        </field>
+        <field>
+            <width>0.5</width>
+            <element>scened_assist_chkbx</element>
+        </field>
+    </row>
+    <row>
+        <height>1.5</height>
+        <margin><top>1</top></margin>
+        <field>
+            <width>0.5</width>
+            <element>stylesets_lbl</element>
+        </field>
+    </row>
+    <row>
+        <height>10</height>
+         <margin><top>0.5</top></margin>
+        <field>
+            <width>0.5</width>
+            <element>stylesets_listbx</element>
+        </field>
+    </row>
+</layout>

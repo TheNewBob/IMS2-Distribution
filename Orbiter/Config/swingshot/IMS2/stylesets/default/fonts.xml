@@ -1,0 +1,28 @@
+<font>
+    <id>default</id>
+    <face>arial</face>
+    <size>1</size>
+    <color>0,255,255</color>
+    <hilight-color>8,8,24</hilight-color>
+    <hilight-background>0,255,255</hilight-background>
+    <key-color>255,20,147</key-color>
+</font>
+
+<font>
+    <id>error</id>
+    <face>arial</face>
+    <size>1</size>
+    <color>0,255,255</color>
+    <hilight-color>255,0,0</hilight-color>
+    <hilight-background>0,0,0</hilight-background>
+    <key-color>255,20,147</key-color>
+</font>
+
+<font>
+    <id>heading</id>
+    <face>arial</face>
+    <size>1.25</size>
+    <color>0,255,255</color>
+    <key-color>255,20,147</key-color>
+</font>
+

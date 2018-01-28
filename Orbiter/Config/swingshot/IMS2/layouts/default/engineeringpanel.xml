@@ -1,0 +1,23 @@
+<layout>
+    <margin>
+        <top>0</top>
+        <left>0.005</left>
+        <right>0.005</right>
+    </margin>
+
+    <row>
+        <height>27</height>
+        <field><width>1</width></field>
+    </row>
+    <row>
+        <height>40</height>
+        <margin><top>0.5</top></margin>
+        <field>
+            <width>0.7</width>
+        </field>
+        <field>
+            <width>0.3</width>
+            <element>main_display</element>
+        </field>
+    </row>
+</layout>
