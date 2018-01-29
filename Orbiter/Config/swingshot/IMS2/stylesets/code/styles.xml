@@ -77,12 +77,6 @@
 </style>
 
 <style>
-    <id>labelvalue_with_error</id>
-    <inherit>default</inherit>
-    <childstyle>error</childstyle>
-</style>
-
-<style>
     <id>module_control</id>
     <inherit>page</inherit>
 </style>
