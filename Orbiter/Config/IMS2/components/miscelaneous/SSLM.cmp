@@ -1,0 +1,13 @@
+Type = lighting
+Name = SSLM
+EmptyMass = 3.4
+Volume = 0.0112
+
+BEGIN_DESCRIPTION
+    Solid State Lighting Module. 
+    Used for efficient and hazard-free lighting in spacecraft interiors.
+END_DESCRIPTION
+
+BEGIN_CONTEXTS
+    PRESSURISED
+END_CONTEXTS

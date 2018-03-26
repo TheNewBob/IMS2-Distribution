@@ -66,6 +66,7 @@
     <childstyle>scrollbar</childstyle>
 </style>
 
+
 <!-- custom styles -->
 <style>
     <id>bold_button</id>
@@ -82,4 +83,12 @@
 <style>
     <id>module_control</id>
     <inherit>page</inherit>
+    <line-strength>0.06</line-strength>
 </style>
+
+<!-- popups -->
+<style>
+    <id>component_selector</id>
+    <inherit>page</inherit>
+</style>
+

@@ -1,0 +1,22 @@
+<layout>
+    <margin>
+        <top>1</top>
+        <left>0.06</left>
+        <right>0.06</right>
+    </margin>
+
+    <row>
+        <height>1.5</height>
+        <field>
+            <width>1</width>
+            <element>name_lbl</element>
+        </field>
+    </row>
+    <row>
+        <height>16</height>
+        <field>
+            <width>1</width>
+            <element>components_view</element>
+        </field>
+    </row>
+</layout>

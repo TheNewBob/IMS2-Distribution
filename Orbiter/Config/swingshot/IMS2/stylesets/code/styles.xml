@@ -80,3 +80,9 @@
     <id>module_control</id>
     <inherit>page</inherit>
 </style>
+
+<!-- popups -->
+<style>
+    <id>component_selector</id>
+    <inherit>page</inherit>
+</style>

@@ -1,0 +1,35 @@
+<layout>
+    <margin>
+        <top>1</top>
+        <left>0.06</left>
+        <right>0.06</right>
+    </margin>
+
+    <row>
+        <height>1.5</height>
+        <field>
+            <width>1</width>
+            <element>title</element>
+        </field>
+    </row>
+    <row>
+        <height>10</height>
+        <margin><top>1</top></margin>
+        <field>
+            <width>1</width>
+            <element>components_list</element>
+        </field>
+    </row>
+    <row>
+        <height>1.5</height>
+         <margin><top>0.5</top></margin>
+        <field>
+            <width>0.5</width>
+            <element>ok_btn</element>
+        </field>
+        <field>
+            <width>0.5</width>
+            <element>cancel_btn</element>
+        </field>
+    </row>
+</layout>
